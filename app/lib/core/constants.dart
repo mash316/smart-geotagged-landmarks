@@ -1,0 +1,9 @@
+const String apiBaseUrl = 'https://labs.anontech.info/cse489/exm3/';
+const String apiKey = '24341171';
+const String apiEndpoint = 'api.php';
+const String apiActionGetLandmarks = 'get_landmarks';
+const String apiActionVisitLandmark = 'visit_landmark';
+const String apiActionGetJobStatus = 'get_job_status';
+const String apiActionCreateLandmark = 'create_landmark';
+const String apiActionDeleteLandmark = 'delete_landmark';
+const String apiActionRestoreLandmark = 'restore_landmark';
