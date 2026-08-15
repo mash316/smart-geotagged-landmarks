@@ -1,0 +1,75 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Masrur Hoque
+Student ID: 24341171
+Assignment: Take Home Midterm
+Date: 15/08/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[x] GitHub Copilot
+[x] Google Gemini (Android Studio AI)
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[x] Learning/understanding concepts
+[x] Debugging my code
+[x] Generating code snippets
+[x] Writing text content
+[x] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describing what I used AI for and how:
+I utilized AI tools extensively throughout the entire development lifecycle of this project.
+GitHub Copilot (VS Code) was used to generate the core architectural patterns,
+comprehensive database schemas, and the full implementation of the repository and data
+layers. I then used Google Gemini within Android Studio for the complete refactor of the
+UI to support OpenStreetMap, the implementation of the complex asynchronous background
+polling logic using WorkManager, and the creation of the offline-to-online
+synchronization mechanisms. The AI was fundamental in translating the multi-step
+technical requirements into functional modules, including landmark CRUD operations,
+multipart image uploads, and dynamic state management for the visit tracking system.
+
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: lib/main.dart      Section: AppState, Map implementation, & WorkManager
+File: lib/database/app_database.dart Section: Full SQLite Schema & Queue Logic
+File: lib/data/api_service.dart Section: API Client & Multipart Upload Logic
+File: android/app/build.gradle.kts Section: SDK 36 migration & Permissions
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Masrur Hoque
+Date: 15/08/2026
+
+============================================================
+Save as: project-root/Ai_usage.txt
+============================================================
